@@ -1,0 +1,2 @@
+# zoey
+A JavaScript project
