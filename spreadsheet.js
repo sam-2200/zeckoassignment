@@ -2,7 +2,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 const { promisify } = require('util');
 const creds = require('./client_secret.json');
 const doc = new GoogleSpreadsheet('1VNiT0rUcT0LFrtqdGklY0jwjtaFWYRoBCwlwCb5Qxkc');
-
+const fetch = require('node-fetch');
 // searching algorithm
 function computeLPSArray(pat, M, lps) {
     // length of the previous longest prefix suffix
