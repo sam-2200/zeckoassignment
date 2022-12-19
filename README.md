@@ -11,7 +11,7 @@ npm install google-spreadsheet
 ```
 
 ```sh
-npm install fetch 
+npm install node-fetch@2
 ```
 
 ```sh
