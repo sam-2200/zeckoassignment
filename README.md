@@ -1,5 +1,4 @@
 # zoey
-A JavaScript project
 See results in [Google Sheet](https://docs.google.com/spreadsheets/d/1VNiT0rUcT0LFrtqdGklY0jwjtaFWYRoBCwlwCb5Qxkc/edit?usp=sharing) 
 
 ## Install
